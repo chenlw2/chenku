@@ -27,7 +27,7 @@ public class AttenceDaoImpl extends BaseDao implements AttenceDao {
 					);
 			list.add(person);
 		}
-		System.out.println("∑√Œ ≤„list£∫"+list.size());
+		System.out.println("∑√Œ ≤„list£∫11111111111111111111"+list.size());
 		return list;
 	}
 
